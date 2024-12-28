@@ -25,7 +25,7 @@
 ---
 
 ## 📩 **Entre em contato**  
-💬 Tem dúvidas ou quer adquirir um plano? **Me envie uma mensagem no Discord**: `storedreamcheats`  
+💬 Tem dúvidas ou quer adquirir um plano? **Me envie uma mensagem no Discord**: `.dreamstore.`  
 
 ---
 
