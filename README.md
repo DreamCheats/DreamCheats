@@ -1,4 +1,4 @@
-# 🌟 DreamCheats | Scripts para Bots do Discord 🌟
+# 🌟 DreamStore | Scripts para Bots do Discord 🌟
 
 ---
 
@@ -29,4 +29,4 @@
 
 ---
 
-**🌟 DreamCheats - © 2025 Todos os direitos reservados ⚡**
+**🌟 DreamStore - © 2025 Todos os direitos reservados ⚡**
